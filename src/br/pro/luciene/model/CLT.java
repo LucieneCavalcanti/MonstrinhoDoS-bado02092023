@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class CLT extends Funcionario {
     private String ctps;
 

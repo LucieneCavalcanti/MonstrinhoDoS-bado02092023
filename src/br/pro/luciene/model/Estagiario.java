@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class Estagiario extends Funcionario{
     private String curso;
     private String dataInicial;

@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class Contrato extends Funcionario{
     private String numeroContrato;
 

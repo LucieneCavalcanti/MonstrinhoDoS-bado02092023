@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class PF extends Pessoa{
     private String rg;
     private String cpf;

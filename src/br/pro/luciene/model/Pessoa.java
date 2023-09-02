@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class Pessoa {
     //public, private, protected, 'friendly'
     private int id; //encapsulamento

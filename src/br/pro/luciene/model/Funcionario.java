@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class Funcionario extends PF{
     private String departamento;
 

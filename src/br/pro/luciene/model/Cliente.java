@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class Cliente extends PF{
     private float limite;
 

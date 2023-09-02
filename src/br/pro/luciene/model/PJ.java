@@ -1,3 +1,4 @@
+package br.pro.luciene.model;
 public class PJ extends Pessoa {
     private String cnpj;
     private String ie;
